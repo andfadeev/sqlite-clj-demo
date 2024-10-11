@@ -1,0 +1,1 @@
+{:db {:jdbcUrl "jdbc:sqlite::memory:"}}
